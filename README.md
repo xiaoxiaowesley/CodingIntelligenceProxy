@@ -46,4 +46,4 @@ You can now use Xcode's coding intelligence features as usual. The proxy server 
 ## Requirements
 
 - macOS
-- Xcode 26+
+- Xcode 14.6+
