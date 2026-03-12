@@ -4,6 +4,8 @@
 
 CodingIntelligenceProxy 是一款 macOS 应用，它作为代理服务器，让 Xcode 的智能编码功能（Apple Intelligence / Predictive Code Completion）可以接入第三方 AI 模型服务。
 
+![CodingIntelligenceProxy](img/main.png)
+
 ## 支持的 AI 服务商
 
 - 智谱AI (ZhipuAI)

@@ -4,6 +4,9 @@
 
 CodingIntelligenceProxy is a macOS app that acts as a proxy server, enabling Xcode's coding intelligence features (Apple Intelligence / Predictive Code Completion) to work with third-party AI model providers.
 
+![CodingIntelligenceProxy](img/main.png)
+
+
 ## Supported AI Providers
 
 - ZhipuAI
